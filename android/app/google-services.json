@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "966535514658",
+    "project_id": "androstream",
+    "storage_bucket": "androstream.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966535514658:android:2b2d315d31662f0821187b",
+        "android_client_info": {
+          "package_name": "com.example.androstream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966535514658-jego3d25itdk0jdigj2ed9l5v9tbg4dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK83IW03BDvh24fTG8_RFnJK33Ynd2K18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966535514658-jego3d25itdk0jdigj2ed9l5v9tbg4dh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "966535514658-kddojd33tgf4qcqq9kb7ppcm2uljqk67.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.androstream"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
